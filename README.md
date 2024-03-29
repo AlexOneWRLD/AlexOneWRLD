@@ -4,13 +4,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ovsyankaseer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://vk.com/vsyan_vsyan">
     <img src="https://img.shields.io/badge/ВКОНТАКТЕ-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Twitter Badge"/>
   </a>
 
