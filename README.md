@@ -73,3 +73,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexOneWRLD&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOneWRLD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexOneWRLD)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![codewars](https://www.codewars.com/users/AlexOneWRLD/badges/large)](https://www.codewars.com/users/AlexOneWRLD)
